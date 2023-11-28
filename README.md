@@ -1,4 +1,6 @@
-# POO - (Programação Orientada a Objetos)\ OOP - (Object-Oriented Programming)
+# POO - (Programação Orientada a Objetos)
+# OOP - (Object-Oriented Programming)
+## Final Grade: 15/20
 
 ## Folder Structure
 
