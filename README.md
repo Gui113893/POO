@@ -1,7 +1,7 @@
 # POO - (Programação Orientada a Objetos)
 # OOP - (Object-Oriented Programming)
 
-## Final Grade: 15/20
+### Final Grade: 15/20
 
 ## Objective
 This Subject is an introduction to Object-Oriented-Programming (OOP), using Java as the main language. The principal goal is to address several themes like encapsulation, inheritance, polymorphism, data structures and more.
