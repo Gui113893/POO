@@ -1,5 +1,4 @@
-### POO - (Programação Orientada a Objetos)
-### OOP - (Object-Oriented Programming)
+### POO - (Programação Orientada a Objetos)\ OOP - (Object-Oriented Programming)
 
 ## Folder Structure
 
