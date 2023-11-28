@@ -18,7 +18,7 @@ This Subject is an introduction to Object-Oriented-Programming (OOP), using Java
  * Java Collections;
  * Data Input and Output: Streams, Decorators, Iterators;
  * Swing and Event Programming.
- For more information: [POO-Universidade de Aveiro](https://www.ua.pt/pt/uc/12279)
+For more information: [POO-Universidade de Aveiro](https://www.ua.pt/pt/uc/12279)
 
 ## Folder Structure
 
